@@ -1,1 +1,0 @@
- npm install react react-dom react-google-charts
