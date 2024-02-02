@@ -32,6 +32,11 @@ This is a financial web application created using React JS. It provides an overv
 
 Here is a video that demonstrates the functionality of the web application:
 
+
+https://github.com/yashtech00/fintech/assets/141262414/7aad70ef-3247-49c1-bc20-24618ea3f7a6
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
