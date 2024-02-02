@@ -15,7 +15,7 @@ This is a financial web application created using React JS. It provides an overv
 - React JS
 - React Router
 - Redux
-- SASS
+- TailwindCSS
 
 ## Installation
 
@@ -31,8 +31,6 @@ This is a financial web application created using React JS. It provides an overv
 ## Video
 
 Here is a video that demonstrates the functionality of the web application:
-
-[![Financial Web Application Demo](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
 
 ## License
 
